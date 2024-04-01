@@ -1,0 +1,1 @@
+# freeCodeCamp_JavaScript_5_palindromeCheckerProject
